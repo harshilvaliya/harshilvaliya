@@ -81,7 +81,7 @@
 ###
 
 <p align="left">
-<strong>Bhitchitram [a wallpaper site]</strong><br>
+<strong>Bhitchitram [a wallpaper site]</strong>
 <a href="https://bhitchitram.netlify.app/">🔗</a><br>
 - Developed and manage a custom wallpaper website<br>
 - Offer wallpapers for desktop and Android<br>
