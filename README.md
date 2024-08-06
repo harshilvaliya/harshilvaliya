@@ -1,18 +1,18 @@
 # Hi 👋, I'm Harshil Valiya
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/harshil-valiya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://linktr.ee/harshilvaliya139" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&color=39E09B&style=for-the-badge" height="35" alt="Linktree" />
-  </a>
-  <a href="https://www.instagram.com/harshil_valiya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=d62976&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:harshilvaliya40@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+    <a href="https://linktr.ee/harshilvaliya139" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=39E09B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+    </a>
+    <a href="https://www.instagram.com/harshil_valiya/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+    </a>
+    <a href="mailto:harshilvaliya40@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
 </div>
 
 ## 🙋 About Me
