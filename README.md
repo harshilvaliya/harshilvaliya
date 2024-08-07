@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
     </a>
    
-    </a>
+   
 </div>
 
 ## 🙋 About Me
