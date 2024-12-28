@@ -3,10 +3,8 @@
 ## 💫 About Me
 - 🔭 I’m currently pursuing my BE-IT degree.
 - 🌱 I’m currently learning Frontend technologies.
-- 💬 Ask me about React & Next.js.
 - ⚡ Fun fact: I love cinema.
 - 💼 Full-stack development experience, including leading a team for an e-commerce website.
-- 🎖️ Active participant in hackathons and coding competitions, including SSIP Hackathons in 2022 and 2023.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshil_valiya) 
@@ -66,12 +64,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshilvaliya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshilvaliya&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilvaliya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshilvaliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshilvaliya&icon=0&color=0)](https://visitcount.itsvg.in)
