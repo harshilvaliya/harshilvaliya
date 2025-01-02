@@ -2,7 +2,7 @@
 
 
 📧 harshilvaliya40@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/harshil-valiya) | [Digital Resume](https://read.cv/harshilvaliya) | [Socials](https://bento.me/harshilvaliya)
+🌐 [LinkedIn](https://linkedin.com/in/harshilvaliya) | [Digital Resume](https://read.cv/harshilvaliya) | [Socials](https://bento.me/harshilvaliya)
 
 
 ## 🚀 About Me
